@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{00604687-9F43-416D-A6F4-353442E1A45D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projeto_final_M9_classes</RootNamespace>
+    <AssemblyName>projeto final M9 classes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="info.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\super-mario-odyssey-collage-i50045.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call_of_duty.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSGO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elden_ring_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\god_of_war.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\halo-infinite-box-art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horizon_Forbidden_West.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red dead.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Legend_of_Zelda_Breath_of_the_Wild_capa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mario-kart-8-deluxe-i50037.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xbox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ps5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NINTENDO OLED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ps5-photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olaaaaa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,22 @@
+E:\Psi\projeto final M9 classes\projeto final M9 classes\bin\Debug\projeto final M9 classes.exe.config
+E:\Psi\projeto final M9 classes\projeto final M9 classes\bin\Debug\projeto final M9 classes.exe
+E:\Psi\projeto final M9 classes\projeto final M9 classes\bin\Debug\projeto final M9 classes.pdb
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.AssemblyReference.cache
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.SuggestedBindingRedirects.cache
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto_final_M9_classes.Form1.resources
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto_final_M9_classes.Properties.Resources.resources
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.GenerateResource.cache
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.CoreCompileInputs.cache
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.exe
+E:\Psi\projeto final M9 classes\projeto final M9 classes\obj\Debug\projeto final M9 classes.pdb
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\bin\Debug\projeto final M9 classes.exe.config
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\bin\Debug\projeto final M9 classes.exe
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\bin\Debug\projeto final M9 classes.pdb
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.AssemblyReference.cache
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.SuggestedBindingRedirects.cache
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto_final_M9_classes.Form1.resources
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto_final_M9_classes.Properties.Resources.resources
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.GenerateResource.cache
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.csproj.CoreCompileInputs.cache
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.exe
+E:\Psi\projeto final M9 classes VFINAL\projeto final M9 classes\obj\Debug\projeto final M9 classes.pdb
